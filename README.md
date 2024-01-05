@@ -36,8 +36,7 @@ Hey! I'm a Data Scientist who loves playing with data using smart thinking and t
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF642D?style=flat-square&logo=mlops&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-025E88?style=flat-square&logo=mlflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLFlow-025E88?style=flat-square&logo=mlflow&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 
 - **Tools/ Technologies**:
