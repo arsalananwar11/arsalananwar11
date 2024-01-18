@@ -4,6 +4,7 @@ Hey! I'm a Data Scientist who loves playing with data using smart thinking and t
 
 **Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20views&color=0e75b6&style=flat" alt="arsalananwar11" /> </p>
 ---
 
 ### 🎓 Education
