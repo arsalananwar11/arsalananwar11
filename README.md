@@ -1,10 +1,9 @@
-## 🚀 About Me
+## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20views&color=0e75b6&style=flat" alt="arsalananwar11" align="right"/> 
 
 Hey! I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into things like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights. 
 
 **Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20views&color=0e75b6&style=flat" alt="arsalananwar11" /> </p>
 ---
 
 ### 🎓 Education
