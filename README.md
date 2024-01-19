@@ -1,8 +1,21 @@
-## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20views&color=0e75b6&style=flat" alt="arsalananwar11" align="right"/> 
+## 🚀 About Me 
 
-Hey! I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into things like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights. 
+Hey! I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
 
 **Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
+
+---
+
+### ✨ GitHub Stats <img src="https://komarev.com/ghpvc/?username=arsalananwar11&label=Profile%20Views&color=0e75b6&style=flat" alt="Arsalan Anwar's Github Stats" align="right"/> 
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=arsalananwar11&theme=dark" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=arsalananwar11&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -83,14 +96,6 @@ Hey! I'm a Data Scientist who loves playing with data using smart thinking and t
 - Trained and deployed Particulate classification models for structured and unstructured data using Azure ML and Azure Function Apps. Achieved an overall accuracy of ~97%.
 - Replaced the manual classification process used by the Lab Analysis team with the new models, resulting in improved accuracy and efficiency in particulate classification.
 
----
-
-### ✨ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arsalananwar11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-<!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arsalananwar11&layout=compact&hide_border=true&theme=radical)
--->
 ---
 
 ### 📮 Connect with Me
