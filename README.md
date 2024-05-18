@@ -1,6 +1,20 @@
-## 🚀 About Me 
+## 🚀 About Me
+<div id="badges" align="center">
+<h2>
+<div id="wave" align="center">
+Hey! I'm Arsalan Anwar!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
-Hey! I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
+<p align="center">
+    <a href="https://github.com/arsalananwar11/arsalananwar11">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Data+Science,+Machine+Learning+;Web+Application+Development+;MS+CS+at+NYU+;">
+    </a>
+</p>
+</h2>
+</div>
+
+I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
 
 **Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
 
