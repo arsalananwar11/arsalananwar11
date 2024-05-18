@@ -30,6 +30,7 @@ I'm a Data Scientist who loves playing with data using smart thinking and tech s
     </tr>
   </table>
 </div>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=arsalananwar11&show_icons=true&count_private=true&no-frame=true&margin-w=25&margin-h=18&theme=onedark">
 
 ---
 
