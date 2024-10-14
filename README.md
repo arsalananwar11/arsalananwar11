@@ -14,7 +14,7 @@ Hey! I'm Arsalan Anwar!
 </h2>
 </div>
 
-I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at NYU (yes NYU!). I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
+I'm a Data Scientist who loves playing with data using smart thinking and tech skills. I've been doing this stuff for over 4 years now and am currently pursuing Masters in Computer Science at New York University with a specialization in AI/ML. I'm into tech like deep learning, machine learning and computer vision, using tools like TensorFlow, PyTorch, OpenCV and Explainable AI. I'm all about turning complicated data into useful insights in order to support data-driven decision making. 
 
 **Quick Note:** I make mistakes but quickly learn from it (think of me as an RL agent xD)
 
