@@ -8,7 +8,7 @@ Hey! I'm Arsalan Anwar!
 
 <p align="center">
     <a href="https://github.com/arsalananwar11/arsalananwar11">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Data+Science,+Machine+Learning+;Web+Application+Development+;MS+CS+at+NYU+;">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Data+Scientist,+Machine+Learning+Engineer+;AI+Product+Developer+;MS+CS+at+NYU+;">
     </a>
 </p>
 </h2>
