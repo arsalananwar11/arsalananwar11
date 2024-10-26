@@ -84,6 +84,13 @@ I'm a Data Scientist who loves playing with data using smart thinking and tech s
 ---
 
 ### 💼 Work Experience
+#### Data Scientist (Research Assistant), New York University
+###### New York City, US | Jan 2024 - Present
+
+- Developing Inquis-AI, an AI-powered content management system, leveraging Flask, Python, Pinecone vector database, and Firebase for backend scalability and integration.
+- Engineering personalized AI assistants utilizing RAG (Retrieval-Augmented Generation) and Llama 2, reducing repetitive data input and improving context management by 40%, streamlining academic and corporate workflows.
+- Enhancing collaboration and real-time data synchronization with a vector-based content management system, allowing efficient file processing, instant content retrieval, and seamless data sharing across teams.
+  
 #### Data Science Intern, Medidata
 ###### New York City, US | May 2024 - Aug 2024
 
