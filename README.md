@@ -38,7 +38,7 @@ I'm a Data Scientist who loves playing with data using smart thinking and tech s
 
 #### New York University
 ###### **M.S. in Computer Science** | Sep 2023 - Present
-- **Relevant Coursework**: Design & Analysis of Algorithms, Machine Learning, Big Data, Deep Learning, Computer Vision, Foundation of Entrepreneurship (Stern)
+- **Relevant Coursework**: Design & Analysis of Algorithms, Machine Learning, Big Data, Deep Learning, Computer Vision, Foundation of Entrepreneurship (Stern), Cloud Computing, Software Engineering, Human Computer Interaction
 
 #### Bangalore Institute of Technology
 ###### **B.Tech in Computer Science** | Aug 2016 - Aug 2020
