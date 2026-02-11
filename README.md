@@ -37,7 +37,7 @@ I'm a Data Scientist who loves playing with data using smart thinking and tech s
 ### 🎓 Education
 
 #### New York University
-###### **M.S. in Computer Science** | Sep 2023 - Present
+###### **M.S. in Computer Science** | Sep 2023 - May 2025
 - **Relevant Coursework**: Design & Analysis of Algorithms, Machine Learning, Big Data, Deep Learning, Computer Vision, Foundation of Entrepreneurship (Stern), Cloud Computing, Software Engineering, Human Computer Interaction
 
 #### Bangalore Institute of Technology
@@ -80,57 +80,13 @@ I'm a Data Scientist who loves playing with data using smart thinking and tech s
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=flat-square&logo=apple&logoColor=white)
-
----
-
-### 💼 Work Experience
-#### Data Scientist (Research Assistant), New York University
-###### New York City, US | Jan 2024 - Present
-
-- Developing Inquis-AI, an AI-powered content management system, leveraging Flask, Python, Pinecone vector database, and Firebase for backend scalability and integration.
-- Engineering personalized AI assistants utilizing RAG (Retrieval-Augmented Generation) and Llama 2, reducing repetitive data input and improving context management by 40%, streamlining academic and corporate workflows.
-- Enhancing collaboration and real-time data synchronization with a vector-based content management system, allowing efficient file processing, instant content retrieval, and seamless data sharing across teams.
-  
-#### Data Science Intern, Medidata
-###### New York City, US | May 2024 - Aug 2024
-
-- Streamlined consent form processing for clinical trials by integrating advanced NLP and LLM techniques, reducing setup time by 45% and costs by 30%, while improving participant onboarding efficiency.
-- Developed a custom algorithm to detect document language and identify key paragraphs, optimizing document structure analysis and significantly enhancing the overall document processing workflow.
-- Automated form field mapping using Claude AI Sonnet via AWS Bedrock, reducing annotation time from 15 minutes to under 2 minutes, boosting processing speed and accuracy.
-
-#### Data Scientist, Course5 Intelligence 
-###### Bangalore, IN | Feb 2023 - Aug 2023
-
-- Utilized Apriori algorithm for purchase analysis, discovering key product associations/patterns for upselling and cross-selling, potentially leading to a 15% increase in avg. revenue per customer.
-- Implemented an end-to-end custom LLM system on top of OpenAI’s GPT-3.5 for answering questions based on purchase analysis. Used vector embeddings and Neo4j graph networks for faster queries.
-- Developed an ensemble of Customer Lifetime Value (CLV) and churn prediction models, leading to data-driven customer segmentation & risk profiling with 94% accuracy.
-
-#### Data Scientist, West Pharmaceutical Services
-###### Bangalore, IN | Aug 2022 - Feb 2023
-
-- Designed a robust & scalable architecture to identify & classify 15 defect categories on stoppers using XceptionNet deep learning model, achieving an accuracy of ~92%.
-- Deployed the defect detection deep learning model in production using Docker and Azure. Used MLFlow for version control and monitoring model performance.
-- Created Power BI reports to visually represent & communicate daily classification results & insights to stakeholders, resulting in a 37% better identification of production line issues.
-
-#### Associate Data Scientist, West Pharmaceutical Services
-###### *Bangalore, IN | Jul 2020 - Jul 2022*
-
-- Designed and set up ROS-Gazebo pipelines to train Turtlebot3 Waffle Pi for autonomous navigation in the manufacturing plant using DQN algorithm, achieving a 95% success rate.
-- Reduced training time for Turtlebot3 by approximately 15% by integrating Human Intervention Learning, enabling the robot to learn directly from human experience stored in the buffer.
-  
-#### Graduate Software Trainee, West Pharmaceutical Services
-###### *Bangalore, IN | Jan 2020 - Jun 2020*
-
-- Trained and deployed Particulate classification models for structured and unstructured data using Azure ML and Azure Function Apps. Achieved an overall accuracy of ~97%.
-- Replaced the manual classification process used by the Lab Analysis team with the new models, resulting in improved accuracy and efficiency in particulate classification.
-
 ---
 
 ### 📮 Connect with Me
 
 Feel free to reach out for collaborations or just a friendly chat:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-anwar-ai/) | 📧 Email: [arsalan.anwar@nyu.edu](mailto:arsalan.anwar@nyu.edu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-anwar-ai/) | 📧 Email: [Arsalan Anwar](mailto:arsalananwarofficial@gmail.com)
 
 ---
 
